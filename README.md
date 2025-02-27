@@ -32,7 +32,7 @@ Audit LLM is a powerful, locally-run data analysis and anomaly detection tool de
 ### 🎥 Live Demo
 For a full demonstration of the application's functionality, watch the video below:
 
-[![Watch the Demo](https://youtu.be/2o359RqFSfQ)](https://youtu.be/2o359RqFSfQ)
+[![Watch the Demo](https://img.youtube.com/vi/2o359RqFSfQ/0.jpg)](https://www.youtube.com/watch?v=2o359RqFSfQ)
 
 ---
 
