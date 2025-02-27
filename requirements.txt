@@ -1,0 +1,11 @@
+langchain_community
+langchain
+langchain_experimental
+pdfplumber
+sentence-transformers
+faiss-cpu
+xlrd
+plotly
+fpdf
+markdown2
+
