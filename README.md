@@ -29,6 +29,13 @@ Audit LLM is a powerful, locally-run data analysis and anomaly detection tool de
 - Includes **anomaly scores, distribution insights, and recommendations**.
 - Provides an **interactive preview** before downloading the report.
 
+### 🎥 Live Demo
+For a full demonstration of the application's functionality, watch the video below:
+
+[![Watch the Demo](https://youtu.be/2o359RqFSfQ)](https://youtu.be/2o359RqFSfQ)
+
+---
+
 ### 🤖 AI-Powered Dataset Q&A
 - Uses **HuggingFace Embeddings** and **FAISS** for fast vector search.
 - Retrieves **relevant document context** for LLM-based answers.
@@ -99,7 +106,7 @@ If you use **Audit LLM** in your research, projects, or publications, please cit
   author = {jabonsote},
   title = {Financial Anomaly Detection with DeepSeek and Isolation Forest},
   year = {2025},
-  url = {[https://github.com/jabonsote/audit-llm](https://github.com/Jabonsote/Financial-Anomaly-Detection-with-DeepSeek-and-Isolation-Forest)}
+  url = {https://github.com/jabonsote/audit-llm}
 }
 ```
 
