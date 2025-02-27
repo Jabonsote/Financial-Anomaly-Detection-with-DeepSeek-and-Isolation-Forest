@@ -99,7 +99,7 @@ If you use **Audit LLM** in your research, projects, or publications, please cit
   author = {jabonsote},
   title = {Financial Anomaly Detection with DeepSeek and Isolation Forest},
   year = {2025},
-  url = {https://github.com/jabonsote/audit-llm}
+  url = {[https://github.com/jabonsote/audit-llm](https://github.com/Jabonsote/Financial-Anomaly-Detection-with-DeepSeek-and-Isolation-Forest)}
 }
 ```
 
