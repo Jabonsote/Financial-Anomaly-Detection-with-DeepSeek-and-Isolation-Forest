@@ -1,5 +1,7 @@
 # 📊 Financial Anomaly Detection with DeepSeek and Isolation Forest 🧠
 
+![DEMO](ezgif-60911d37b14fb4.gif)
+
 ## 🚀 Project Overview
 Audit LLM is a powerful, locally-run data analysis and anomaly detection tool designed for businesses to ensure data integrity. It provides:
 
